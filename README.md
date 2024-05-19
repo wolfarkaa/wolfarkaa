@@ -7,7 +7,7 @@
 ![C++](https://img.shields.io/badge/-C++-383435?style=for-the-badge&logo=C%2b%2b&logoColor=5C8DBC)
 ![JetPackCompose](https://img.shields.io/badge/-Jetpack_Compose-383435?style=for-the-badge&logo=JetpackCompose)
 
-## Follow me
+## Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-383435?style=for-the-badge&logo=telegram)](https://t.me/kotsurz)
 [![Discord](https://img.shields.io/badge/-Discord-383435?style=for-the-badge&logo=discord)](https://discordapp.com/users/539476829065445376/)
 [![Instagram](https://img.shields.io/badge/-Instagram-383435?style=for-the-badge&logo=instagram)](https://www.instagram.com/kotsurz/)
